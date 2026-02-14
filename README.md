@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="#dashboard">Dashboard</a> •
   <a href="#features">Features</a> •
   <a href="#quick-start">Quick Start</a> •
   <a href="#cli-reference">CLI</a> •
@@ -19,6 +20,11 @@
 </p>
 
 ---
+
+## Dashboard
+
+![dashboard](/assets/img1.png)
+
 
 ## Features
 
