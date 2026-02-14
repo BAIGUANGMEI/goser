@@ -1,0 +1,31 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.syso
+dist/
+
+# Go
+vendor/
+
+# Frontend
+cmd/app/frontend/node_modules/
+cmd/app/frontend/dist/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# GoSer runtime
+.goser/
+
+# Build temp
+build/icongen/

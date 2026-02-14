@@ -1,0 +1,15 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "goser-app",
+  "outputfilename": "goser-app",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "frontend:dir": "cmd/app/frontend",
+  "wailsjsdir": "cmd/app/frontend/src",
+  "author": {
+    "name": "GoSer",
+    "email": "goser@example.com"
+  }
+}
